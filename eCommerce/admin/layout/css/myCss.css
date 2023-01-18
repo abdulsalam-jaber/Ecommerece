@@ -1,0 +1,61 @@
+body{
+    background-color: #F4f4f4;
+    font-size: 16px;
+}
+
+.login{
+
+width: 300px;
+margin: 100px auto;
+}
+
+.login input{
+    margin-bottom: 10px;
+}
+
+.login .form-control
+{
+    background-color: #E5E5E5;
+}
+
+.login .btn
+{
+    background-color: #008dde;
+}
+.navbar{
+    border-radius: 0;
+    margin-bottom: 0;
+    
+}
+.navbar-brand,
+.navbar-brand {
+    font-size: 1em;
+}
+
+.nav > li> a{
+    padding: 15px 12px;
+}
+.form-control{
+    position: relative;
+}
+
+.asterisk{
+    font-size: 30px;
+    position: absolute;
+    right: 30px;
+    top: 3px;
+    color: rgb(179, 40, 40);
+}
+/* start users page*/
+h1{
+    font-size: 55px;
+    margin: 40px 0;
+    font-weight: bold;
+    color: #666;
+}
+
+.show-pass{
+    position: absolute;
+    top: 2px;
+    right: -12px;
+}
