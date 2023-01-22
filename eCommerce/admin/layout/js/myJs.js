@@ -23,5 +23,9 @@ $(function ()
    },function(){
       passFaild.attr('type','password');
    });
+
+   $('.confirm').click(function(){
+      return confirm('Are you sure?');
+   });
 });
 
